@@ -4,6 +4,11 @@
 \contentsline {chapter}{\numberline {4}Dynamic programming}{5}{chapter.4}
 \contentsline {chapter}{\numberline {5}Strings}{6}{chapter.5}
 \contentsline {section}{\numberline {5.1}KMP}{6}{section.5.1}
-\contentsline {chapter}{\numberline {6}Computational geometry}{8}{chapter.6}
-\contentsline {chapter}{\numberline {7}Math}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Number Theory}{10}{chapter.8}
+\contentsline {section}{\numberline {5.2}Trie}{7}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Static Trie}{7}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.3}Aho Corasick}{8}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Aho Corasick with Dynamic Trie}{8}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Aho Corasick with Static Trie}{10}{subsection.5.3.2}
+\contentsline {chapter}{\numberline {6}Computational geometry}{14}{chapter.6}
+\contentsline {chapter}{\numberline {7}Math}{15}{chapter.7}
+\contentsline {chapter}{\numberline {8}Number Theory}{16}{chapter.8}

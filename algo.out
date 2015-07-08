@@ -4,6 +4,11 @@
 \BOOKMARK [0][-]{chapter.4}{Dynamic programming}{}% 4
 \BOOKMARK [0][-]{chapter.5}{Strings}{}% 5
 \BOOKMARK [1][-]{section.5.1}{KMP}{chapter.5}% 6
-\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 7
-\BOOKMARK [0][-]{chapter.7}{Math}{}% 8
-\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 9
+\BOOKMARK [1][-]{section.5.2}{Trie}{chapter.5}% 7
+\BOOKMARK [2][-]{subsection.5.2.1}{Static Trie}{section.5.2}% 8
+\BOOKMARK [1][-]{section.5.3}{Aho Corasick}{chapter.5}% 9
+\BOOKMARK [2][-]{subsection.5.3.1}{Aho Corasick with Dynamic Trie}{section.5.3}% 10
+\BOOKMARK [2][-]{subsection.5.3.2}{Aho Corasick with Static Trie}{section.5.3}% 11
+\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 12
+\BOOKMARK [0][-]{chapter.7}{Math}{}% 13
+\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 14
