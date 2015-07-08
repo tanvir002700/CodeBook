@@ -1,0 +1,4 @@
+#ignorefile
+*.exe
+*.o
+*.cpp
