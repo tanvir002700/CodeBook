@@ -1,5 +1,5 @@
 \documentclass[1pt]{report}
-\usepackage[utf8]{inputenc}
+%\usepackage[utf8]{inputenc}
 \usepackage{listings}
 \usepackage{color}
 %New colors defined below
@@ -43,21 +43,85 @@
 
 \title{Algorithm Code Book}
 \author{Tanvir Hasan Anick}
+
+
 \begin{document}
 \maketitle
 \tableofcontents
 \newpage
+
+%%Begin Data Structure
 \chapter{Data Structure}
+\section{Trie}
+\subsection{Static Trie}
+\lstinputlisting[language=C++]{../Algorithm/Trie/StaticTrie.cpp}
+\section{RMQ}
+\subsection{Bit}
+\subsubsection{1D Bit}
+\lstinputlisting[language=C++]{../Algorithm/Bit/Bit(1D).cpp}
+\subsubsection{2D Bit}
+\lstinputlisting[language=C++]{../Algorithm/Bit/Bit(2D).cpp}
+\subsection{Square Root Decompostion}
+\lstinputlisting[language=C++]{../Algorithm/Square_Root_Decomposition/squareRootDecomposition.cpp}
+\subsection{MO's Algorithm}
+\lstinputlisting[language=C++]{../Algorithm/MO's_Algorithm/MOs_Algorithm.cpp}
+\subsection{Segment Tree}
+\subsubsection{Lazy Propagration1}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Lazy1.cpp}
+\subsubsection{Lazy Propagration2}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Lazy2.cpp}
+\subsubsection{Segment Tree Variant 1}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant1(CumulativeFrequency).cpp}
+\subsubsection{Segment Tree Variant 2}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant2(Maximum_sum_in_range).cpp}
+\subsubsection{Segment Tree Variant 3}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant3(Correct_maximum_bracket_seq).cpp}
+\subsection{Sliding Window RMQ}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Sliding_Window/Sliding_Window_Rmq.cpp}
+\subsection{Sparse Table}
+\lstinputlisting[language=C++]{../Algorithm/RMQ-Sparse_Table/Sparse_Table.cpp}
+
+\section{Heavy Light Decomposition}
+\lstinputlisting[language=C++]{../Algorithm/HLD/Heavy_LIght_Decomposition.cpp}
+
+\section{Ternary Bit Mask}
+\lstinputlisting[language=C++]{../Algorithm/Ternary_Bit_Mask/Tarnary_Bit_Mask.cpp}
+
+%%End Data Structure
+
+
+
+%%Begin Graph Theory
 \chapter{Graph Theory}
+\section{DFS}
+\subsection{Bicoloring}
+\lstinputlisting[language=C++]{../Algorithm/DFS/Bicoloring.cpp}
+\subsection{Cycle Finding}
+\lstinputlisting[language=C++]{../Algorithm/DFS/Cycle_Finding.cpp}
+\section{Topological Sort}
+\lstinputlisting[language=C++]{../Algorithm/Topological_Sort/Top_Sort_With_Dfs.cpp}
+
+%%End Graph Theory
+
+%%Begin Flow networks/ matching
 \chapter{Flow networks/ matching}
+\section{Max Flow}
+\lstinputlisting[language=C++]{../Algorithm/Max_Flow/Max_Flow.cpp}
+
+%%End Flow network/matching
+
+%%Begin Dynamic programming
 \chapter{Dynamic programming}
+\section{Edit Distance}
+\lstinputlisting[language=C++]{../Algorithm/Edit_Distance/Edit_Destance.cpp}
+
+%%End Dynamic programming
+
+%%Begin String algorithm
 \chapter{Strings}
 \section{KMP}
 \href{https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/}{Tutorial}
 \lstinputlisting[language=C++]{../Algorithm/KMP/kmp.cpp}
-\section{Trie}
-\subsection{Static Trie}
-\lstinputlisting[language=C++]{../Algorithm/Trie/StaticTrie.cpp}
 \section{Aho Corasick}
 \subsection{Aho Corasick with Dynamic Trie}
 \lstinputlisting[language=C++]{../Algorithm/Aho_Corasick/Aho-corasick(DynamicTrie).cpp}
@@ -65,7 +129,28 @@
 \lstinputlisting[language=C++]{../Algorithm/Aho_Corasick/Aho-corasick(staticTrie).cpp}
 \section{Manacher's Algorithm}
 \lstinputlisting[language=C++]{../Algorithm/Manacher's_Algorithm/Manachers.cpp}
+
+%%End String Algorithm
+
+
+%%Begin Computational Geometry
 \chapter{Computational geometry}
+
+%%End Computational Geometry
+
+%%Begin Math
 \chapter{Math}
+\section{Reduce Ratio}
+$\left(\frac{A}{B}\right)$ ratio reduce to $\left(\frac{x}{y}\right)$
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/A,B_reduce_to_x,y_ratio.cpp}
+%%End Math
+
+%%Begin Number Theory
 \chapter{Number Theory}
+\section{NCR}
+\subsection{Lucas Theorem}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/NCR(LucasTheorem).cpp}
+
+%%End Number Theory
+
 \end{document}
