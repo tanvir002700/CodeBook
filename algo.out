@@ -9,6 +9,7 @@
 \BOOKMARK [1][-]{section.5.3}{Aho Corasick}{chapter.5}% 9
 \BOOKMARK [2][-]{subsection.5.3.1}{Aho Corasick with Dynamic Trie}{section.5.3}% 10
 \BOOKMARK [2][-]{subsection.5.3.2}{Aho Corasick with Static Trie}{section.5.3}% 11
-\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 12
-\BOOKMARK [0][-]{chapter.7}{Math}{}% 13
-\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 14
+\BOOKMARK [1][-]{section.5.4}{Manacher's Algorithm}{chapter.5}% 12
+\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 13
+\BOOKMARK [0][-]{chapter.7}{Math}{}% 14
+\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 15
