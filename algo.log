@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  8 JUL 2015 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  8 JUL 2015 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,22 +555,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
  (./algo.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
-
-
-Package rerunfilecheck Warning: File `algo.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `algo.out':
-(rerunfilecheck)             Before: 7DF68D93E4D6BB9645F6948A91048EA0;702
-(rerunfilecheck)             After:  40EDAF34C9AF1873F3F1612DD77B84AD;785.
+Package rerunfilecheck Info: File `algo.out' has not changed.
+(rerunfilecheck)             Checksum: 40EDAF34C9AF1873F3F1612DD77B84AD;785.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 7460 strings out of 494501
- 106438 string characters out of 6167031
+ 7461 strings out of 494501
+ 106456 string characters out of 6167031
  435057 words of memory out of 5000000
- 10287 multiletter control sequences out of 15000+600000
+ 10288 multiletter control sequences out of 15000+600000
  9107 words of font info for 32 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  34i,6n,61p,232b,1956s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -584,10 +577,10 @@ amsfonts/cm/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb>
-Output written on algo.pdf (17 pages, 147737 bytes).
+Output written on algo.pdf (17 pages, 147982 bytes).
 PDF statistics:
- 637 PDF objects out of 1000 (max. 8388607)
- 602 compressed objects within 7 object streams
+ 641 PDF objects out of 1000 (max. 8388607)
+ 606 compressed objects within 7 object streams
  398 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
