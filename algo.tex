@@ -31,6 +31,16 @@
 %"mystyle" code listing set
 \lstset{style=mystyle}
 
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+ 
+\urlstyle{same}
+
 \title{Algorithm Code Book}
 \author{Tanvir Hasan Anick}
 \begin{document}
@@ -42,8 +52,10 @@
 \chapter{Flow networks/ matching}
 \chapter{Dynamic programming}
 \chapter{Strings}
+\section{KMP}
+\href{https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/}{Tutorial}
+\lstinputlisting[language=C++]{../Algorithm/KMP/kmp.cpp}
 \chapter{Computational geometry}
 \chapter{Math}
 \chapter{Number Theory}
-\lstinputlisting[language=C++]{../Algorithm/KMP/kmp.cpp}
 \end{document}
