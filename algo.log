@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  8 JUL 2015 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  9 JUL 2015 02:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,49 +378,50 @@ Chapter 2.
 (../Algorithm/DFS/Bicoloring.cpp) (../Algorithm/DFS/Cycle_Finding.cpp)
 (../Algorithm/Topological_Sort/Top_Sort_With_Dfs.cpp [21
 
-]) [22]
+])
+(../Algorithm/Havel_Hakimi/HavelHakimi.cpp [22]) [23]
 Chapter 3.
-(../Algorithm/Max_Flow/Max_Flow.cpp [23
+(../Algorithm/Max_Flow/Max_Flow.cpp [24
 
-] [24] [25]) [26]
+] [25] [26]) [27]
 Chapter 4.
-(../Algorithm/Edit_Distance/Edit_Destance.cpp [27
+(../Algorithm/Edit_Distance/Edit_Destance.cpp [28
 
-] [28] [29]) [30]
+] [29] [30]) [31]
 Chapter 5.
-(../Algorithm/KMP/kmp.cpp) [31
+(../Algorithm/KMP/kmp.cpp) [32
 
 ]
-(../Algorithm/Aho_Corasick/Aho-corasick(DynamicTrie).cpp [32])
-(../Algorithm/Aho_Corasick/Aho-corasick(staticTrie).cpp [33] [34])
-(../Algorithm/Manacher's_Algorithm/Manachers.cpp [35]) [36]
+(../Algorithm/Aho_Corasick/Aho-corasick(DynamicTrie).cpp [33])
+(../Algorithm/Aho_Corasick/Aho-corasick(staticTrie).cpp [34] [35])
+(../Algorithm/Manacher's_Algorithm/Manachers.cpp [36]) [37]
 Chapter 6.
-[37
+[38
 
 ]
 Chapter 7.
-(../Algorithm/Number_Theory/A,B_reduce_to_x,y_ratio.cpp) [38
+(../Algorithm/Number_Theory/A,B_reduce_to_x,y_ratio.cpp) [39
 
 ]
 Chapter 8.
 (../Algorithm/Number_Theory/NCR(LucasTheorem).cpp)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
- [39
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
+ [40
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
  (./algo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `algo.out' has not changed.
-(rerunfilecheck)             Checksum: 68848250B47E236BEFD48DE98B1B8D51;1979.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
+(rerunfilecheck)             Checksum: 653C5627736A688D71100D7C6B217B83;2038.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
  ) 
 Here is how much of TeX's memory you used:
- 9731 strings out of 494501
- 144656 string characters out of 6167031
+ 9799 strings out of 494501
+ 145718 string characters out of 6167031
  540641 words of memory out of 5000000
- 10722 multiletter control sequences out of 15000+600000
+ 10734 multiletter control sequences out of 15000+600000
  9107 words of font info for 32 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  34i,6n,61p,286b,1831s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -436,10 +437,10 @@ public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on algo.pdf (40 pages, 343661 bytes).
+Output written on algo.pdf (41 pages, 348795 bytes).
 PDF statistics:
- 2948 PDF objects out of 2984 (max. 8388607)
- 2866 compressed objects within 29 object streams
- 2169 named destinations out of 2487 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3018 PDF objects out of 3580 (max. 8388607)
+ 2934 compressed objects within 30 object streams
+ 2221 named destinations out of 2487 (max. 500000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -22,19 +22,20 @@
 \contentsline {subsection}{\numberline {2.1.1}Bicoloring}{21}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Cycle Finding}{21}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Topological Sort}{21}{section.2.2}
-\contentsline {chapter}{\numberline {3}Flow networks/ matching}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Max Flow}{23}{section.3.1}
-\contentsline {chapter}{\numberline {4}Dynamic programming}{27}{chapter.4}
-\contentsline {section}{\numberline {4.1}Edit Distance}{27}{section.4.1}
-\contentsline {chapter}{\numberline {5}Strings}{31}{chapter.5}
-\contentsline {section}{\numberline {5.1}KMP}{31}{section.5.1}
-\contentsline {section}{\numberline {5.2}Aho Corasick}{32}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{32}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{33}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{35}{section.5.3}
-\contentsline {chapter}{\numberline {6}Computational geometry}{37}{chapter.6}
-\contentsline {chapter}{\numberline {7}Math}{38}{chapter.7}
-\contentsline {section}{\numberline {7.1}Reduce Ratio}{38}{section.7.1}
-\contentsline {chapter}{\numberline {8}Number Theory}{39}{chapter.8}
-\contentsline {section}{\numberline {8.1}NCR}{39}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{39}{subsection.8.1.1}
+\contentsline {section}{\numberline {2.3}Havel Hakimi}{22}{section.2.3}
+\contentsline {chapter}{\numberline {3}Flow networks/ matching}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}Max Flow}{24}{section.3.1}
+\contentsline {chapter}{\numberline {4}Dynamic programming}{28}{chapter.4}
+\contentsline {section}{\numberline {4.1}Edit Distance}{28}{section.4.1}
+\contentsline {chapter}{\numberline {5}Strings}{32}{chapter.5}
+\contentsline {section}{\numberline {5.1}KMP}{32}{section.5.1}
+\contentsline {section}{\numberline {5.2}Aho Corasick}{33}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{33}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{34}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{36}{section.5.3}
+\contentsline {chapter}{\numberline {6}Computational geometry}{38}{chapter.6}
+\contentsline {chapter}{\numberline {7}Math}{39}{chapter.7}
+\contentsline {section}{\numberline {7.1}Reduce Ratio}{39}{section.7.1}
+\contentsline {chapter}{\numberline {8}Number Theory}{40}{chapter.8}
+\contentsline {section}{\numberline {8.1}NCR}{40}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{40}{subsection.8.1.1}
