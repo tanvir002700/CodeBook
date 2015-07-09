@@ -36,6 +36,7 @@
 \contentsline {chapter}{\numberline {6}Computational geometry}{32}{chapter.6}
 \contentsline {chapter}{\numberline {7}Math}{33}{chapter.7}
 \contentsline {section}{\numberline {7.1}Reduce Ratio}{33}{section.7.1}
-\contentsline {chapter}{\numberline {8}Number Theory}{34}{chapter.8}
-\contentsline {section}{\numberline {8.1}NCR}{34}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{34}{subsection.8.1.1}
+\contentsline {section}{\numberline {7.2}Floyd's Cycle Finding algorithm}{33}{section.7.2}
+\contentsline {chapter}{\numberline {8}Number Theory}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}NCR}{35}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{35}{subsection.8.1.1}

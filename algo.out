@@ -29,6 +29,7 @@
 \BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 29
 \BOOKMARK [0][-]{chapter.7}{Math}{}% 30
 \BOOKMARK [1][-]{section.7.1}{Reduce Ratio}{chapter.7}% 31
-\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 32
-\BOOKMARK [1][-]{section.8.1}{NCR}{chapter.8}% 33
-\BOOKMARK [2][-]{subsection.8.1.1}{Lucas Theorem}{section.8.1}% 34
+\BOOKMARK [1][-]{section.7.2}{Floyd's Cycle Finding algorithm}{chapter.7}% 32
+\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 33
+\BOOKMARK [1][-]{section.8.1}{NCR}{chapter.8}% 34
+\BOOKMARK [2][-]{subsection.8.1.1}{Lucas Theorem}{section.8.1}% 35
