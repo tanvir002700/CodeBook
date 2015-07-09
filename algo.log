@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.29)  9 JUL 2015 20:04
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.2)  9 JUL 2015 02:12
->>>>>>> a2da12db7c8a7ff1d42bf8b6ffdf40242a5bae83
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.29)  9 JUL 2015 20:13
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -198,7 +194,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -229,20 +225,20 @@ LaTeX Warning: Unused global option(s):
     [1pt].
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 \c@lstlisting=\count110
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -260,7 +256,7 @@ LaTeX Font Info:    ... okay on input line 58.
 \everyMPtoPDFconversion=\toks18
 )
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 58.
+Package hyperref Info: Link coloring ON on input line 57.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -269,9 +265,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count117
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (F:\OTHER\Git\CodeBook\algo.out) (F:\OTHER\Git\CodeBook\algo.out)
 \@outlinefile=\write3
@@ -311,11 +307,11 @@ LaTeX Info: Redefining \nameref on input line 58.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 59.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -330,7 +326,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 \newpage
+l.60 \newpage
               [1
 
 ]
@@ -387,51 +383,51 @@ Chapter 2.
 (F:\OTHER\Git\Algorithm\DFS\Cycle_Finding.cpp)
 (F:\OTHER\Git\Algorithm\Topological_Sort\Top_Sort_With_Dfs.cpp [19
 
-<<<<<<< HEAD
-]) [20]
+])
+(F:\OTHER\Git\Algorithm\Havel_Hakimi\HavelHakimi.cpp [20]) [21]
 Chapter 3.
-(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [21
+(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [22
 
-]) [22]
+]) [23]
 Chapter 4.
-(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [23
+(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [24
 
-]) [24]
+]) [25]
 Chapter 5.
-(F:\OTHER\Git\Algorithm\KMP\kmp.cpp) [25
+(F:\OTHER\Git\Algorithm\KMP\kmp.cpp) [26
 
 ]
-(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [26])
-(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp [27] [28])
-(F:\OTHER\Git\Algorithm\Manacher's_Algorithm\Manachers.cpp [29]) [30]
+(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [27])
+(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp [28] [29])
+(F:\OTHER\Git\Algorithm\Manacher's_Algorithm\Manachers.cpp [30]) [31]
 Chapter 6.
-[31
+[32
 
 ]
 Chapter 7.
-(F:\OTHER\Git\Algorithm\Number_Theory\A,B_reduce_to_x,y_ratio.cpp) [32
+(F:\OTHER\Git\Algorithm\Number_Theory\A,B_reduce_to_x,y_ratio.cpp) [33
 
 ]
 Chapter 8.
 (F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
- [33
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+ [34
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `algo.out' has not changed.
-(rerunfilecheck)             Checksum: 407E0A4443F6EADEF7FDFF1783664868;2012.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
+(rerunfilecheck)             Checksum: 3E828E237D6D0E2678F21B763DA792FE;2072.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 9228 strings out of 493921
- 137451 string characters out of 3147264
+ 9297 strings out of 493921
+ 138569 string characters out of 3147264
  489455 words of memory out of 3000000
- 10571 multiletter control sequences out of 15000+200000
+ 10583 multiletter control sequences out of 15000+200000
  9107 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  34i,6n,61p,286b,1831s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -445,76 +441,9 @@ msfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on algo.pdf (34 pages, 517573 bytes).
+Output written on algo.pdf (35 pages, 528423 bytes).
 PDF statistics:
- 2466 PDF objects out of 2487 (max. 8388607)
- 1810 named destinations out of 2073 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-])
-(../Algorithm/Havel_Hakimi/HavelHakimi.cpp [22]) [23]
-Chapter 3.
-(../Algorithm/Max_Flow/Max_Flow.cpp [24
-
-] [25] [26]) [27]
-Chapter 4.
-(../Algorithm/Edit_Distance/Edit_Destance.cpp [28
-
-] [29] [30]) [31]
-Chapter 5.
-(../Algorithm/KMP/kmp.cpp) [32
-
-]
-(../Algorithm/Aho_Corasick/Aho-corasick(DynamicTrie).cpp [33])
-(../Algorithm/Aho_Corasick/Aho-corasick(staticTrie).cpp [34] [35])
-(../Algorithm/Manacher's_Algorithm/Manachers.cpp [36]) [37]
-Chapter 6.
-[38
-
-]
-Chapter 7.
-(../Algorithm/Number_Theory/A,B_reduce_to_x,y_ratio.cpp) [39
-
-]
-Chapter 8.
-(../Algorithm/Number_Theory/NCR(LucasTheorem).cpp)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
- [40
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
- (./algo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
-Package rerunfilecheck Info: File `algo.out' has not changed.
-(rerunfilecheck)             Checksum: 653C5627736A688D71100D7C6B217B83;2038.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
- ) 
-Here is how much of TeX's memory you used:
- 9799 strings out of 494501
- 145718 string characters out of 6167031
- 540641 words of memory out of 5000000
- 10734 multiletter control sequences out of 15000+600000
- 9107 words of font info for 32 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 34i,6n,61p,286b,1831s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmex10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi7.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2015basic/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015basic/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on algo.pdf (41 pages, 348795 bytes).
-PDF statistics:
- 3018 PDF objects out of 3580 (max. 8388607)
- 2934 compressed objects within 30 object streams
- 2221 named destinations out of 2487 (max. 500000)
+ 2535 PDF objects out of 2984 (max. 8388607)
+ 1862 named destinations out of 2073 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> a2da12db7c8a7ff1d42bf8b6ffdf40242a5bae83
 

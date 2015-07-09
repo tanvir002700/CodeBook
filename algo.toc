@@ -16,51 +16,26 @@
 \contentsline {subsection}{\numberline {1.2.5}Sliding Window RMQ}{13}{subsection.1.2.5}
 \contentsline {subsection}{\numberline {1.2.6}Sparse Table}{14}{subsection.1.2.6}
 \contentsline {section}{\numberline {1.3}Heavy Light Decomposition}{14}{section.1.3}
-<<<<<<< HEAD
 \contentsline {section}{\numberline {1.4}Ternary Bit Mask}{18}{section.1.4}
 \contentsline {chapter}{\numberline {2}Graph Theory}{19}{chapter.2}
 \contentsline {section}{\numberline {2.1}DFS}{19}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Bicoloring}{19}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Cycle Finding}{19}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Topological Sort}{19}{section.2.2}
-\contentsline {chapter}{\numberline {3}Flow networks/ matching}{21}{chapter.3}
-\contentsline {section}{\numberline {3.1}Max Flow}{21}{section.3.1}
-\contentsline {chapter}{\numberline {4}Dynamic programming}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Edit Distance}{23}{section.4.1}
-\contentsline {chapter}{\numberline {5}Strings}{25}{chapter.5}
-\contentsline {section}{\numberline {5.1}KMP}{25}{section.5.1}
-\contentsline {section}{\numberline {5.2}Aho Corasick}{26}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{26}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{27}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{29}{section.5.3}
-\contentsline {chapter}{\numberline {6}Computational geometry}{31}{chapter.6}
-\contentsline {chapter}{\numberline {7}Math}{32}{chapter.7}
-\contentsline {section}{\numberline {7.1}Reduce Ratio}{32}{section.7.1}
-\contentsline {chapter}{\numberline {8}Number Theory}{33}{chapter.8}
-\contentsline {section}{\numberline {8.1}NCR}{33}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{33}{subsection.8.1.1}
-=======
-\contentsline {section}{\numberline {1.4}Ternary Bit Mask}{19}{section.1.4}
-\contentsline {chapter}{\numberline {2}Graph Theory}{21}{chapter.2}
-\contentsline {section}{\numberline {2.1}DFS}{21}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Bicoloring}{21}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Cycle Finding}{21}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Topological Sort}{21}{section.2.2}
-\contentsline {section}{\numberline {2.3}Havel Hakimi}{22}{section.2.3}
-\contentsline {chapter}{\numberline {3}Flow networks/ matching}{24}{chapter.3}
-\contentsline {section}{\numberline {3.1}Max Flow}{24}{section.3.1}
-\contentsline {chapter}{\numberline {4}Dynamic programming}{28}{chapter.4}
-\contentsline {section}{\numberline {4.1}Edit Distance}{28}{section.4.1}
-\contentsline {chapter}{\numberline {5}Strings}{32}{chapter.5}
-\contentsline {section}{\numberline {5.1}KMP}{32}{section.5.1}
-\contentsline {section}{\numberline {5.2}Aho Corasick}{33}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{33}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{34}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{36}{section.5.3}
-\contentsline {chapter}{\numberline {6}Computational geometry}{38}{chapter.6}
-\contentsline {chapter}{\numberline {7}Math}{39}{chapter.7}
-\contentsline {section}{\numberline {7.1}Reduce Ratio}{39}{section.7.1}
-\contentsline {chapter}{\numberline {8}Number Theory}{40}{chapter.8}
-\contentsline {section}{\numberline {8.1}NCR}{40}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{40}{subsection.8.1.1}
->>>>>>> a2da12db7c8a7ff1d42bf8b6ffdf40242a5bae83
+\contentsline {section}{\numberline {2.3}Havel Hakimi}{20}{section.2.3}
+\contentsline {chapter}{\numberline {3}Flow networks/ matching}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Max Flow}{22}{section.3.1}
+\contentsline {chapter}{\numberline {4}Dynamic programming}{24}{chapter.4}
+\contentsline {section}{\numberline {4.1}Edit Distance}{24}{section.4.1}
+\contentsline {chapter}{\numberline {5}Strings}{26}{chapter.5}
+\contentsline {section}{\numberline {5.1}KMP}{26}{section.5.1}
+\contentsline {section}{\numberline {5.2}Aho Corasick}{27}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{27}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{28}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{30}{section.5.3}
+\contentsline {chapter}{\numberline {6}Computational geometry}{32}{chapter.6}
+\contentsline {chapter}{\numberline {7}Math}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}Reduce Ratio}{33}{section.7.1}
+\contentsline {chapter}{\numberline {8}Number Theory}{34}{chapter.8}
+\contentsline {section}{\numberline {8.1}NCR}{34}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{34}{subsection.8.1.1}
