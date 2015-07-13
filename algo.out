@@ -16,20 +16,24 @@
 \BOOKMARK [2][-]{subsection.2.1.2}{Cycle Finding}{section.2.1}% 16
 \BOOKMARK [1][-]{section.2.2}{Topological Sort}{chapter.2}% 17
 \BOOKMARK [1][-]{section.2.3}{Havel Hakimi}{chapter.2}% 18
-\BOOKMARK [0][-]{chapter.3}{Flow networks/ matching}{}% 19
-\BOOKMARK [1][-]{section.3.1}{Max Flow}{chapter.3}% 20
-\BOOKMARK [0][-]{chapter.4}{Dynamic programming}{}% 21
-\BOOKMARK [1][-]{section.4.1}{Edit Distance}{chapter.4}% 22
-\BOOKMARK [0][-]{chapter.5}{Strings}{}% 23
-\BOOKMARK [1][-]{section.5.1}{KMP}{chapter.5}% 24
-\BOOKMARK [1][-]{section.5.2}{Aho Corasick}{chapter.5}% 25
-\BOOKMARK [2][-]{subsection.5.2.1}{Aho Corasick with Dynamic Trie}{section.5.2}% 26
-\BOOKMARK [2][-]{subsection.5.2.2}{Aho Corasick with Static Trie}{section.5.2}% 27
-\BOOKMARK [1][-]{section.5.3}{Manacher's Algorithm}{chapter.5}% 28
-\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 29
-\BOOKMARK [0][-]{chapter.7}{Math}{}% 30
-\BOOKMARK [1][-]{section.7.1}{Reduce Ratio}{chapter.7}% 31
-\BOOKMARK [1][-]{section.7.2}{Floyd's Cycle Finding algorithm}{chapter.7}% 32
-\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 33
-\BOOKMARK [1][-]{section.8.1}{NCR}{chapter.8}% 34
-\BOOKMARK [2][-]{subsection.8.1.1}{Lucas Theorem}{section.8.1}% 35
+\BOOKMARK [1][-]{section.2.4}{Articulation Point/Bridge}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.4.1}{Find Articulation Point:}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.2}{Find Bridge version 1:}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.3}{Find Bridge version 2:}{section.2.4}% 22
+\BOOKMARK [0][-]{chapter.3}{Flow networks/ matching}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Max Flow}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{Dynamic programming}{}% 25
+\BOOKMARK [1][-]{section.4.1}{Edit Distance}{chapter.4}% 26
+\BOOKMARK [0][-]{chapter.5}{Strings}{}% 27
+\BOOKMARK [1][-]{section.5.1}{KMP}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.2}{Aho Corasick}{chapter.5}% 29
+\BOOKMARK [2][-]{subsection.5.2.1}{Aho Corasick with Dynamic Trie}{section.5.2}% 30
+\BOOKMARK [2][-]{subsection.5.2.2}{Aho Corasick with Static Trie}{section.5.2}% 31
+\BOOKMARK [1][-]{section.5.3}{Manacher's Algorithm}{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 33
+\BOOKMARK [0][-]{chapter.7}{Math}{}% 34
+\BOOKMARK [1][-]{section.7.1}{Reduce Ratio}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.2}{Floyd's Cycle Finding algorithm}{chapter.7}% 36
+\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 37
+\BOOKMARK [1][-]{section.8.1}{NCR}{chapter.8}% 38
+\BOOKMARK [2][-]{subsection.8.1.1}{Lucas Theorem}{section.8.1}% 39
