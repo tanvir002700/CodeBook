@@ -1,46 +1,46 @@
-\contentsline {chapter}{\numberline {1}Data Structure}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Trie}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Static Trie}{2}{subsection.1.1.1}
-\contentsline {section}{\numberline {1.2}RMQ}{3}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Bit}{3}{subsection.1.2.1}
-\contentsline {subsubsection}{1D Bit}{3}{section*.2}
-\contentsline {subsubsection}{2D Bit}{3}{section*.3}
-\contentsline {subsection}{\numberline {1.2.2}Square Root Decompostion}{4}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}MO's Algorithm}{4}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}Segment Tree}{6}{subsection.1.2.4}
-\contentsline {subsubsection}{Lazy Propagration1}{6}{section*.4}
-\contentsline {subsubsection}{Lazy Propagration2}{7}{section*.5}
-\contentsline {subsubsection}{Segment Tree Variant 1}{9}{section*.6}
-\contentsline {subsubsection}{Segment Tree Variant 2}{10}{section*.7}
-\contentsline {subsubsection}{Segment Tree Variant 3}{11}{section*.8}
-\contentsline {subsection}{\numberline {1.2.5}Sliding Window RMQ}{13}{subsection.1.2.5}
-\contentsline {subsection}{\numberline {1.2.6}Sparse Table}{14}{subsection.1.2.6}
-\contentsline {section}{\numberline {1.3}Heavy Light Decomposition}{14}{section.1.3}
-\contentsline {section}{\numberline {1.4}Ternary Bit Mask}{18}{section.1.4}
-\contentsline {chapter}{\numberline {2}Graph Theory}{19}{chapter.2}
-\contentsline {section}{\numberline {2.1}DFS}{19}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Bicoloring}{19}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Cycle Finding}{19}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Topological Sort}{19}{section.2.2}
-\contentsline {section}{\numberline {2.3}Havel Hakimi}{20}{section.2.3}
-\contentsline {section}{\numberline {2.4}Articulation Point/Bridge}{21}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Find Articulation Point:}{21}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Find Bridge version 1:}{21}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Find Bridge version 2:}{22}{subsection.2.4.3}
-\contentsline {chapter}{\numberline {3}Flow networks/ matching}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Max Flow}{23}{section.3.1}
-\contentsline {chapter}{\numberline {4}Dynamic programming}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}Edit Distance}{25}{section.4.1}
-\contentsline {chapter}{\numberline {5}Strings}{27}{chapter.5}
-\contentsline {section}{\numberline {5.1}KMP}{27}{section.5.1}
-\contentsline {section}{\numberline {5.2}Aho Corasick}{28}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{28}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{29}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{31}{section.5.3}
-\contentsline {chapter}{\numberline {6}Computational geometry}{33}{chapter.6}
-\contentsline {chapter}{\numberline {7}Math}{34}{chapter.7}
-\contentsline {section}{\numberline {7.1}Reduce Ratio}{34}{section.7.1}
-\contentsline {section}{\numberline {7.2}Floyd's Cycle Finding algorithm}{34}{section.7.2}
-\contentsline {chapter}{\numberline {8}Number Theory}{36}{chapter.8}
-\contentsline {section}{\numberline {8.1}NCR}{36}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{36}{subsection.8.1.1}
+\contentsline {chapter}{\numberline {1}Data Structure}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Trie}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Static Trie}{3}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}RMQ}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Bit}{4}{subsection.1.2.1}
+\contentsline {subsubsection}{1D Bit}{4}{section*.2}
+\contentsline {subsubsection}{2D Bit}{4}{section*.3}
+\contentsline {subsection}{\numberline {1.2.2}Square Root Decompostion}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}MO's Algorithm}{5}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Segment Tree}{7}{subsection.1.2.4}
+\contentsline {subsubsection}{Lazy Propagration1}{7}{section*.4}
+\contentsline {subsubsection}{Lazy Propagration2}{8}{section*.5}
+\contentsline {subsubsection}{Segment Tree Variant 1}{10}{section*.6}
+\contentsline {subsubsection}{Segment Tree Variant 2}{11}{section*.7}
+\contentsline {subsubsection}{Segment Tree Variant 3}{12}{section*.8}
+\contentsline {subsection}{\numberline {1.2.5}Sliding Window RMQ}{14}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Sparse Table}{15}{subsection.1.2.6}
+\contentsline {section}{\numberline {1.3}Heavy Light Decomposition}{15}{section.1.3}
+\contentsline {section}{\numberline {1.4}Ternary Bit Mask}{19}{section.1.4}
+\contentsline {chapter}{\numberline {2}Graph Theory}{20}{chapter.2}
+\contentsline {section}{\numberline {2.1}DFS}{20}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Bicoloring}{20}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Cycle Finding}{20}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Topological Sort}{20}{section.2.2}
+\contentsline {section}{\numberline {2.3}Havel Hakimi}{21}{section.2.3}
+\contentsline {section}{\numberline {2.4}Articulation Point/Bridge}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Find Articulation Point:}{22}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Find Bridge version 1:}{22}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Find Bridge version 2:}{23}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}Flow networks/ matching}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}Max Flow}{24}{section.3.1}
+\contentsline {chapter}{\numberline {4}Dynamic programming}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Edit Distance}{26}{section.4.1}
+\contentsline {chapter}{\numberline {5}Strings}{28}{chapter.5}
+\contentsline {section}{\numberline {5.1}KMP}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2}Aho Corasick}{29}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Aho Corasick with Dynamic Trie}{29}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Aho Corasick with Static Trie}{30}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Manacher's Algorithm}{32}{section.5.3}
+\contentsline {chapter}{\numberline {6}Computational geometry}{34}{chapter.6}
+\contentsline {chapter}{\numberline {7}Math}{35}{chapter.7}
+\contentsline {section}{\numberline {7.1}Reduce Ratio}{35}{section.7.1}
+\contentsline {section}{\numberline {7.2}Floyd's Cycle Finding algorithm}{35}{section.7.2}
+\contentsline {chapter}{\numberline {8}Number Theory}{37}{chapter.8}
+\contentsline {section}{\numberline {8.1}NCR}{37}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Lucas Theorem}{37}{subsection.8.1.1}
