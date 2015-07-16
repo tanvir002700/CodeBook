@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.29)  13 JUL 2015 13:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.29)  16 JUL 2015 13:06
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -431,8 +431,8 @@ Package rerunfilecheck Info: File `algo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 9542 strings out of 493921
- 142797 string characters out of 3147264
+ 9535 strings out of 493921
+ 142685 string characters out of 3147264
  489458 words of memory out of 3000000
  10640 multiletter control sequences out of 15000+200000
  9107 words of font info for 32 fonts, out of 3000000 for 9000
@@ -448,9 +448,9 @@ msfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on algo.pdf (38 pages, 564176 bytes).
+Output written on algo.pdf (38 pages, 563065 bytes).
 PDF statistics:
- 2773 PDF objects out of 2984 (max. 8388607)
- 2034 named destinations out of 2073 (max. 500000)
+ 2765 PDF objects out of 2984 (max. 8388607)
+ 2027 named destinations out of 2073 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
