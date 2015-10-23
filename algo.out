@@ -1,39 +1,39 @@
-\BOOKMARK [0][-]{chapter.1}{Data Structure}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Data\040Structure}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Trie}{chapter.1}% 2
-\BOOKMARK [2][-]{subsection.1.1.1}{Static Trie}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.1}{Static\040Trie}{section.1.1}% 3
 \BOOKMARK [1][-]{section.1.2}{RMQ}{chapter.1}% 4
 \BOOKMARK [2][-]{subsection.1.2.1}{Bit}{section.1.2}% 5
-\BOOKMARK [2][-]{subsection.1.2.2}{Square Root Decompostion}{section.1.2}% 6
-\BOOKMARK [2][-]{subsection.1.2.3}{MO's Algorithm}{section.1.2}% 7
-\BOOKMARK [2][-]{subsection.1.2.4}{Segment Tree}{section.1.2}% 8
-\BOOKMARK [2][-]{subsection.1.2.5}{Sliding Window RMQ}{section.1.2}% 9
-\BOOKMARK [2][-]{subsection.1.2.6}{Sparse Table}{section.1.2}% 10
-\BOOKMARK [1][-]{section.1.3}{Heavy Light Decomposition}{chapter.1}% 11
-\BOOKMARK [1][-]{section.1.4}{Ternary Bit Mask}{chapter.1}% 12
-\BOOKMARK [0][-]{chapter.2}{Graph Theory}{}% 13
+\BOOKMARK [2][-]{subsection.1.2.2}{Square\040Root\040Decompostion}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.3}{MO's\040Algorithm}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.4}{Segment\040Tree}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.5}{Sliding\040Window\040RMQ}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.6}{Sparse\040Table}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Heavy\040Light\040Decomposition}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.4}{Ternary\040Bit\040Mask}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Graph\040Theory}{}% 13
 \BOOKMARK [1][-]{section.2.1}{DFS}{chapter.2}% 14
 \BOOKMARK [2][-]{subsection.2.1.1}{Bicoloring}{section.2.1}% 15
-\BOOKMARK [2][-]{subsection.2.1.2}{Cycle Finding}{section.2.1}% 16
-\BOOKMARK [1][-]{section.2.2}{Topological Sort}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.3}{Havel Hakimi}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.4}{Articulation Point/Bridge}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.4.1}{Find Articulation Point:}{section.2.4}% 20
-\BOOKMARK [2][-]{subsection.2.4.2}{Find Bridge version 1:}{section.2.4}% 21
-\BOOKMARK [2][-]{subsection.2.4.3}{Find Bridge version 2:}{section.2.4}% 22
-\BOOKMARK [0][-]{chapter.3}{Flow networks/ matching}{}% 23
-\BOOKMARK [1][-]{section.3.1}{Max Flow}{chapter.3}% 24
-\BOOKMARK [0][-]{chapter.4}{Dynamic programming}{}% 25
-\BOOKMARK [1][-]{section.4.1}{Edit Distance}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.2.1.2}{Cycle\040Finding}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{Topological\040Sort}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Havel\040Hakimi}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.4}{Articulation\040Point/Bridge}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.4.1}{Find\040Articulation\040Point:}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.2}{Find\040Bridge\040version\0401:}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.3}{Find\040Bridge\040version\0402:}{section.2.4}% 22
+\BOOKMARK [0][-]{chapter.3}{Flow\040networks/\040matching}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Max\040Flow}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{Dynamic\040programming}{}% 25
+\BOOKMARK [1][-]{section.4.1}{Edit\040Distance}{chapter.4}% 26
 \BOOKMARK [0][-]{chapter.5}{Strings}{}% 27
 \BOOKMARK [1][-]{section.5.1}{KMP}{chapter.5}% 28
-\BOOKMARK [1][-]{section.5.2}{Aho Corasick}{chapter.5}% 29
-\BOOKMARK [2][-]{subsection.5.2.1}{Aho Corasick with Dynamic Trie}{section.5.2}% 30
-\BOOKMARK [2][-]{subsection.5.2.2}{Aho Corasick with Static Trie}{section.5.2}% 31
-\BOOKMARK [1][-]{section.5.3}{Manacher's Algorithm}{chapter.5}% 32
-\BOOKMARK [0][-]{chapter.6}{Computational geometry}{}% 33
-\BOOKMARK [0][-]{chapter.7}{Math}{}% 34
-\BOOKMARK [1][-]{section.7.1}{Reduce Ratio}{chapter.7}% 35
-\BOOKMARK [1][-]{section.7.2}{Floyd's Cycle Finding algorithm}{chapter.7}% 36
-\BOOKMARK [0][-]{chapter.8}{Number Theory}{}% 37
-\BOOKMARK [1][-]{section.8.1}{NCR}{chapter.8}% 38
-\BOOKMARK [2][-]{subsection.8.1.1}{Lucas Theorem}{section.8.1}% 39
+\BOOKMARK [1][-]{section.5.2}{Aho\040Corasick}{chapter.5}% 29
+\BOOKMARK [2][-]{subsection.5.2.1}{Aho\040Corasick\040with\040Dynamic\040Trie}{section.5.2}% 30
+\BOOKMARK [2][-]{subsection.5.2.2}{Aho\040Corasick\040with\040Static\040Trie}{section.5.2}% 31
+\BOOKMARK [1][-]{section.5.3}{Manacher's\040Algorithm}{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{Math}{}% 33
+\BOOKMARK [1][-]{section.6.1}{Reduce\040Ratio}{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.2}{Floyd's\040Cycle\040Finding\040algorithm}{chapter.6}% 35
+\BOOKMARK [0][-]{chapter.7}{Number\040Theory}{}% 36
+\BOOKMARK [1][-]{section.7.1}{NCR}{chapter.7}% 37
+\BOOKMARK [2][-]{subsection.7.1.1}{Lucas\040Theorem}{section.7.1}% 38
+\BOOKMARK [0][-]{chapter.8}{Computational\040geometry}{}% 39
