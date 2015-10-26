@@ -96,6 +96,15 @@
 \section{Ternary Bit Mask}
 \lstinputlisting[language=C++]{../Algorithm/Ternary_Bit_Mask/Tarnary_Bit_Mask.cpp}
 
+\section{Largest Rectangle in Histogram }
+\subsection{Largest rectangle in histogram using Stack}
+\lstinputlisting[language=C++]{../Algorithm/LargestRactangleInHistogram/LargestRactangleInHistogram_usingStack.cpp}
+\subsection{Largest rectangle in histogram using Segment Tree}
+\lstinputlisting[language=C++]{../Algorithm/LargestRactangleInHistogram/LargestRactangleInHistogram_usingSegmentTree.cpp}
+
+\section{Least common ancestor (LCA)}
+\lstinputlisting[language=C++]{../Algorithm/LCA/lca.cpp}
+
 %%End Data Structure
 
 
@@ -118,21 +127,26 @@
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge1.cpp}
 \subsection{Find Bridge version 2:}
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge2.cpp}
-
+\subsection{2 SAT}
+\lstinputlisting[language=C++]{../Algorithm/2SAT/2SAT.cpp}
 %%End Graph Theory
 
 %%Begin Flow networks/ matching
 \chapter{Flow networks/ matching}
 \section{Max Flow}
 \lstinputlisting[language=C++]{../Algorithm/Max_Flow/Max_Flow.cpp}
-
+\section{Maximum Bipartite Matching}
+\lstinputlisting[language=C++]{../Algorithm/MaximumBipartiteMatching/BPM.cpp}
 %%End Flow network/matching
 
 %%Begin Dynamic programming
 \chapter{Dynamic programming}
 \section{Edit Distance}
 \lstinputlisting[language=C++]{../Algorithm/Edit_Distance/Edit_Destance.cpp}
-
+\section{Distinct Sub Sequence}
+\lstinputlisting[language=C++]{../Algorithm/Distinct_Subsequnce/DistinctSubsequence.cpp}
+\section{Knuth Optimization}
+\lstinputlisting[language=C++]{../Algorithm/knuth_optimization/knuthOptimization.cpp}
 %%End Dynamic programming
 
 %%Begin String algorithm
@@ -154,14 +168,61 @@
 \chapter{Math}
 \section{Reduce Ratio}
 $\left(\frac{A}{B}\right)$ ratio reduce to $\left(\frac{x}{y}\right)$
-\lstinputlisting[language=C++]{../Algorithm/Number_Theory/A,B_reduce_to_x,y_ratio.cpp}
+\lstinputlisting[language=C++]{../Algorithm/Math/A,B_reduce_to_x,y_ratio.cpp}
 \section{Floyd's Cycle Finding algorithm}
 \lstinputlisting[language=C++]{../Algorithm/Floyds_Cycle_Finding_algorithm/FloydsCycleFindingAlgorithm.cpp}
-
+\section{Angle between clock hand}
+\lstinputlisting[language=C++]{../Algorithm/Math/Angle_between_clock_hand.cpp}
+\section{Big Integer}
+\lstinputlisting[language=C++]{../Algorithm/BigInteger/BigInt.cpp}
 %%End Math
 
 %%Begin Number Theory
 \chapter{Number Theory}
+\section{Greatest common divisor (GCD)}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/gcd.cpp}
+\section{Least common multiple (LCM)}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/lcm.cpp}
+\section{Big Mod}
+\subsection{Iterative version}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/BigModLoop.cpp}
+\subsection{Recursive version}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/BigModRucursive.cpp}
+\section{Sieve of Eratosthenes}
+\subsection{Sieve}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/Sieve.cpp}
+\subsection{Bitwise Sieve}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/BitwiseSieve.cpp}
+\section{Euler's totient function}
+Euler's totient function (or Euler's phi function), denoted as $\varphi (n) or  \phi(n)$, is an arithmetic function that counts the positive integers less than or equal to n that are relatively prime to n. (These integers are sometimes referred to as totatives of n.) Thus, if n is a positive integer, then $\varphi (n)$ is the number of integers k in the range $1 \leq k \leq n$ for which the greatest common divisor gcd(n, k) = 1.
+\subsection{Euler phi sieve version}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/EulerPhi(sieve_version).cpp}
+\subsection{Euler phi function}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/EulerPhi.cpp}
+\section{Number of Divisors}
+If a number $$N= P1^{k1}*P2^{k2}*P3^{k3}………...........Pn^{kn}$$
+Number of divisor: $$f(n)=(k1+1)*(k2+1)*(k3+1)*…….........….(kn+1)$$
+\subsection{NOD sieve version}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/NumberOfDivisor(sieve_version).cpp}
+\subsection{NOD function}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/NumberOfDivisor.cpp}
+\section{Summation of Divisors}
+If the prime factorization of an integer is:
+		$$P1^{x1}*P2^{x2}*…….....…..*Pn^{xn}$$
+Where $P1,P2,………Pn$ are primes, then the summation of divisors is
+		$$\frac{(P1^{x1}  -1)}{(P1-1)} * \frac{(P2^{x2}  -1)}{(P2-1)} *………......... *\frac{(Pn^{xn}  -1)}{(Pn-1)}$$
+\section{Extended Euclid GCD}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/ExtendedEuclidGCD.cpp}
+\section{Modular multiplicative inverse}
+\subsection{Modular inverse using EGCD}
+\lstinputlisting[language=C++]{../Algorithm/Number_Theory/ModularInverse(EGCD).cpp}
+\subsection{Modular multiplicative inverse using Euler Theorem}
+According to Euler's theorem, if a is coprime to m, that is, gcd(a, m) = 1,then
+$$a^{\varphi(m)} \equiv 1 \pmod{m}$$
+where φ(m) is Euler's totient function. This follows from the fact that a belongs to the multiplicative group $(\frac{Z}{mZ})^×$ iff a is coprime to m. Therefore the modular multiplicative inverse can be found directly:
+$$a^{\varphi(m)-1} \equiv a^{-1} \pmod{m}$$.
+In the special case when m is a prime, the modular inverse is given by the below equation as:
+$$a^{-1} \equiv a^{m-2} \pmod{m}$$.
 \section{NCR}
 \subsection{Lucas Theorem}
 \lstinputlisting[language=C++]{../Algorithm/Number_Theory/NCR(LucasTheorem).cpp}
@@ -170,7 +231,7 @@ $\left(\frac{A}{B}\right)$ ratio reduce to $\left(\frac{x}{y}\right)$
 
 %%Begin Computational Geometry
 \chapter{Computational geometry}
-
+\lstinputlisting[language=C++]{../Algorithm/GeometryLibrary/GeoLibrary.cpp}
 %%End Computational Geometry
 
 \end{document}
