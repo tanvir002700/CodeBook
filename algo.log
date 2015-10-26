@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  27 OCT 2015 00:26
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  27 OCT 2015 02:05
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -315,9 +315,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
  [1
 
-])
+] [2])
 \tf@toc=\write4
- [2]
+ [3]
 Chapter 1.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -347,85 +347,120 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
- [3
+ [4
 
 ])
-(F:\OTHER\Git\Algorithm\Bit\Bit(1D).cpp [4])
+(F:\OTHER\Git\Algorithm\Bit\Bit(1D).cpp [5])
 (F:\OTHER\Git\Algorithm\Bit\Bit(2D).cpp)
 (F:\OTHER\Git\Algorithm\Square_Root_Decomposition\squareRootDecomposition.cpp
-[5]) (F:\OTHER\Git\Algorithm\MOs_Algorithm\MOs_Algorithm.cpp
+[6]) (F:\OTHER\Git\Algorithm\MOs_Algorithm\MOs_Algorithm.cpp
 Missing character: There is no ^^92 in font cmr9!
- [6] [7])
+ [7] [8])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Lazy1.cpp
 Missing character: There is no ^^96 in font cmr9!
- [8])
-(F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Lazy2.cpp [9] [10])
+ [9])
+(F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Lazy2.cpp [10] [11])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant1(CumulativeFreque
-ncy).cpp [11])
+ncy).cpp [12])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant2(Maximum_sum_in_r
-ange).cpp [12] [13])
+ange).cpp [13] [14])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant3(Correct_maximum_
-bracket_seq).cpp [14])
-(F:\OTHER\Git\Algorithm\RMQ-Sliding_Window\Sliding_Window_Rmq.cpp [15])
-(F:\OTHER\Git\Algorithm\RMQ-Sparse_Table\Sparse_Table.cpp [16])
-(F:\OTHER\Git\Algorithm\HLD\Heavy_LIght_Decomposition.cpp [17] [18] [19]
-[20]) (F:\OTHER\Git\Algorithm\Ternary_Bit_Mask\Tarnary_Bit_Mask.cpp) [21]
+bracket_seq).cpp [15])
+(F:\OTHER\Git\Algorithm\RMQ-Sliding_Window\Sliding_Window_Rmq.cpp [16])
+(F:\OTHER\Git\Algorithm\RMQ-Sparse_Table\Sparse_Table.cpp [17])
+(F:\OTHER\Git\Algorithm\Ternary_Bit_Mask\Tarnary_Bit_Mask.cpp) [18]
 (F:\OTHER\Git\Algorithm\LargestRactangleInHistogram\LargestRactangleInHistogram
 _usingStack.cpp)
 (F:\OTHER\Git\Algorithm\LargestRactangleInHistogram\LargestRactangleInHistogram
-_usingSegmentTree.cpp [22]) (F:\OTHER\Git\Algorithm\LCA\lca.cpp [23]) [24]
+_usingSegmentTree.cpp [19]) (F:\OTHER\Git\Algorithm\LCA\lca.cpp [20])
+(F:\OTHER\Git\Algorithm\UnionFind\UnionFind.cpp [21]) [22]
 Chapter 2.
 (F:\OTHER\Git\Algorithm\DFS\Bicoloring.cpp)
 (F:\OTHER\Git\Algorithm\DFS\Cycle_Finding.cpp)
-(F:\OTHER\Git\Algorithm\Topological_Sort\Top_Sort_With_Dfs.cpp [25
+(F:\OTHER\Git\Algorithm\Topological_Sort\Top_Sort_With_Dfs.cpp [23
 
 ])
-(F:\OTHER\Git\Algorithm\Havel_Hakimi\HavelHakimi.cpp [26])
-(F:\OTHER\Git\Algorithm\Articulation_point\FindArticulationPoint.cpp [27])
+(F:\OTHER\Git\Algorithm\SCC\StronglyConnectedComponent.cpp [24])
+(F:\OTHER\Git\Algorithm\Havel_Hakimi\HavelHakimi.cpp [25])
+(F:\OTHER\Git\Algorithm\Articulation_point\FindArticulationPoint.cpp [26])
 (F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge1.cpp)
 (F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge2.cpp
-[28]) (F:\OTHER\Git\Algorithm\2SAT\2SAT.cpp
+[27]) (F:\OTHER\Git\Algorithm\StableMarriageAlgo\Stable_Marriage_Algo.cpp)
+(F:\OTHER\Git\Algorithm\2SAT\2SAT.cpp
+Missing character: There is no ^^92 in font cmr9!
+ [28]
 Missing character: There is no ^^92 in font cmr9!
 Missing character: There is no ^^92 in font cmr9!
 Missing character: There is no ^^92 in font cmr9!
 Missing character: There is no ^^92 in font cmr9!
-Missing character: There is no ^^92 in font cmr9!
- [29] [30] [31]) [32]
+ [29] [30])
+(F:\OTHER\Git\Algorithm\HLD\Heavy_LIght_Decomposition.cpp [31] [32] [33]
+[34]) [35]
 Chapter 3.
-(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [33
+(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [36
 
 ])
-(F:\OTHER\Git\Algorithm\MaximumBipartiteMatching\BPM.cpp [34]) [35]
+(F:\OTHER\Git\Algorithm\MaximumBipartiteMatching\BPM.cpp [37]) [38]
 Chapter 4.
-(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [36
+(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [39
 
 ])
-(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp [37])
-(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp) [38]
-Chapter 5.
-(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [39
+(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp [40])
+(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp) [41]
+(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum.cpp)
+(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum_O(n^3).cpp [42])
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
 
-])
-(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [40]
-[41]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
-[42] [43]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [44])
+ []
+
+
+Overfull \hbox (25.41412pt too wide) in paragraph at lines 166--170
+\OT1/cmr/m/n/10.95 Query For-mula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x
+1,y1,z2)+S(x1,y2,z1)+S(x1,y1,z1)-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+(F:\OTHER\Git\Algorithm\MaXSum\3DMaxSum_O(n^4).cpp) [43]
+(F:\OTHER\Git\Algorithm\MinimumVertexCover\minimum_vertex_cover.cpp)
+(F:\OTHER\Git\Algorithm\Nth_Permutation_Of_a_String\NthPermutation.cpp [44])
 [45]
+Chapter 5.
+(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [46
+
+])
+(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [47]
+[48]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
+[49] [50]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [51])
+[52]
 Chapter 6.
 (F:\OTHER\Git\Algorithm\Math\A,B_reduce_to_x,y_ratio.cpp)
 (F:\OTHER\Git\Algorithm\Floyds_Cycle_Finding_algorithm\FloydsCycleFindingAlgori
-thm.cpp [46
+thm.cpp [53
 
 ]) (F:\OTHER\Git\Algorithm\Math\Angle_between_clock_hand.cpp)
-(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [47] [48] [49]) [50]
+(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [54] [55] [56]) [57]
 Chapter 7.
+(F:\OTHER\Git\Algorithm\MinMax_Algorithm\MINMAXALGORITHM.cpp) [58
+
+]
+Chapter 8.
 (F:\OTHER\Git\Algorithm\Number_Theory\gcd.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\lcm.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\BigModLoop.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [51
+(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [59
 
 ]
 (F:\OTHER\Git\Algorithm\Number_Theory\Sieve.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp) [52]
+(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp) [60]
 (F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi(sieve_version).cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi.cpp)
 Missing character: There is no … in font cmr10!
@@ -434,13 +469,13 @@ Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
- [53]
+ [61]
 (F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor(sieve_version).cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor.cpp)
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
- [54]
+ [62]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
@@ -453,27 +488,27 @@ Missing character: There is no … in font cmr10!
 Missing character: There is no φ in font cmr10!
 Missing character: There is no × in font cmr8!
 
-(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp [55]) [56]
-Chapter 8.
-(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [57
+(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp [63]) [64]
+Chapter 9.
+(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [65
 
-] [58] [59] [60]
-[61])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
- [62]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+] [66] [67] [68]
+[69])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
+ [70]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
  (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 237.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 272.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 272.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
  ) 
 Here is how much of TeX's memory you used:
- 10856 strings out of 429025
- 152990 string characters out of 3167801
- 508509 words of memory out of 3000000
- 13910 multiletter control sequences out of 15000+200000
+ 10981 strings out of 429025
+ 155202 string characters out of 3167801
+ 508518 words of memory out of 3000000
+ 14001 multiletter control sequences out of 15000+200000
  11295 words of font info for 39 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
  34i,6n,61p,462b,1835s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on algo.pdf (63 pages).
+Output written on algo.pdf (71 pages).

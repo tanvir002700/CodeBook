@@ -90,8 +90,6 @@
 \subsection{Sparse Table}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Sparse_Table/Sparse_Table.cpp}
 
-\section{Heavy Light Decomposition}
-\lstinputlisting[language=C++]{../Algorithm/HLD/Heavy_LIght_Decomposition.cpp}
 
 \section{Ternary Bit Mask}
 \lstinputlisting[language=C++]{../Algorithm/Ternary_Bit_Mask/Tarnary_Bit_Mask.cpp}
@@ -104,7 +102,8 @@
 
 \section{Least common ancestor (LCA)}
 \lstinputlisting[language=C++]{../Algorithm/LCA/lca.cpp}
-
+\section{Union Find}
+\lstinputlisting[language=C++]{../Algorithm/UnionFind/UnionFind.cpp}
 %%End Data Structure
 
 
@@ -118,6 +117,8 @@
 \lstinputlisting[language=C++]{../Algorithm/DFS/Cycle_Finding.cpp}
 \section{Topological Sort}
 \lstinputlisting[language=C++]{../Algorithm/Topological_Sort/Top_Sort_With_Dfs.cpp}
+\section{Strongly Connected Component}
+\lstinputlisting[language=C++]{../Algorithm/SCC/StronglyConnectedComponent.cpp}
 \section{Havel Hakimi}
 \lstinputlisting[language=C++]{../Algorithm/Havel_Hakimi/HavelHakimi.cpp}
 \section{Articulation Point/Bridge}
@@ -127,8 +128,13 @@
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge1.cpp}
 \subsection{Find Bridge version 2:}
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge2.cpp}
-\subsection{2 SAT}
+\section{Stable Marriage Problem}
+\lstinputlisting[language=C++]{../Algorithm/StableMarriageAlgo/Stable_Marriage_Algo.cpp}
+\section{2 SAT}
 \lstinputlisting[language=C++]{../Algorithm/2SAT/2SAT.cpp}
+\section{Heavy Light Decomposition}
+\lstinputlisting[language=C++]{../Algorithm/HLD/Heavy_LIght_Decomposition.cpp}
+
 %%End Graph Theory
 
 %%Begin Flow networks/ matching
@@ -147,6 +153,27 @@
 \lstinputlisting[language=C++]{../Algorithm/Distinct_Subsequnce/DistinctSubsequence.cpp}
 \section{Knuth Optimization}
 \lstinputlisting[language=C++]{../Algorithm/knuth_optimization/knuthOptimization.cpp}
+\section{Max Sum}
+\subsection{2D Max Sum 1}
+Complexity $O(n^4)$
+\lstinputlisting[language=C++]{../Algorithm/MaXSum/2DMaxSum.cpp}
+\subsection{2D Max sum 2}
+Complexity $n^3$
+\lstinputlisting[language=C++]{../Algorithm/MaXSum/2DMaxSum_O(n^3).cpp}
+\subsection{3D Max sum}
+Complexity $O(n^4)$
+
+Cumulative Sum formula: S(x,y,z)=value(x,y,z) + S(x-1,y,z) + S(x,y-1,z)+S(x,y,z-1)-S(x-1,y-1,z)-S(x,y-1,z-1)-S(x-1,y,z-1)
++S(x-1,y-1,z-1)\\ \\
+Query Formula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x1,y1,z2)+S(x1,y2,z1)+S(x1,y1,z1)-S(x2,y2,z1)-S(x2,y1,z2)-S(x1,y2,z2)
+-S(x1,y1,z1) \\ \\ 
+
+\lstinputlisting[language=C++]{../Algorithm/MaXSum/3DMaxSum_O(n^4).cpp}
+
+\section{Minimum Vertex Cover}
+\lstinputlisting[language=C++]{../Algorithm/MinimumVertexCover/minimum_vertex_cover.cpp}
+\section{Nth Permutation Of a String}
+\lstinputlisting[language=C++]{../Algorithm/Nth_Permutation_Of_a_String/NthPermutation.cpp}
 %%End Dynamic programming
 
 %%Begin String algorithm
@@ -176,6 +203,13 @@ $\left(\frac{A}{B}\right)$ ratio reduce to $\left(\frac{x}{y}\right)$
 \section{Big Integer}
 \lstinputlisting[language=C++]{../Algorithm/BigInteger/BigInt.cpp}
 %%End Math
+
+%%Begin Game Theory
+
+\chapter{Game Theory}
+\section{Min Max Algorithm}
+\lstinputlisting[language=C++]{../Algorithm/MinMax_Algorithm/MINMAXALGORITHM.cpp}
+%%End Game Theory
 
 %%Begin Number Theory
 \chapter{Number Theory}
@@ -231,6 +265,7 @@ $$a^{-1} \equiv a^{m-2} \pmod{m}$$.
 
 %%Begin Computational Geometry
 \chapter{Computational geometry}
+\section{Geo Library}
 \lstinputlisting[language=C++]{../Algorithm/GeometryLibrary/GeoLibrary.cpp}
 %%End Computational Geometry
 
