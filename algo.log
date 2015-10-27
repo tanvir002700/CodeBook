@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  27 OCT 2015 02:05
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  27 OCT 2015 22:33
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -402,80 +402,81 @@ Chapter 3.
 ])
 (F:\OTHER\Git\Algorithm\MaximumBipartiteMatching\BPM.cpp [37]) [38]
 Chapter 4.
-(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [39
+(F:\OTHER\Git\Algorithm\LIS\LIS.cpp [39
 
 ])
-(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp [40])
-(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp) [41]
+(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [40] [41])
+(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp)
+(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp [42])
 (F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum.cpp)
-(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum_O(n^3).cpp [42])
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum_O(n^3).cpp [43])
+Underfull \hbox (badness 10000) in paragraph at lines 168--172
 
  []
 
 
-Overfull \hbox (25.41412pt too wide) in paragraph at lines 166--170
+Overfull \hbox (25.41412pt too wide) in paragraph at lines 168--172
 \OT1/cmr/m/n/10.95 Query For-mula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x
 1,y1,z2)+S(x1,y2,z1)+S(x1,y1,z1)-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+Underfull \hbox (badness 10000) in paragraph at lines 168--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--170
+Underfull \hbox (badness 10000) in paragraph at lines 168--172
 
  []
 
-(F:\OTHER\Git\Algorithm\MaXSum\3DMaxSum_O(n^4).cpp) [43]
+(F:\OTHER\Git\Algorithm\MaXSum\3DMaxSum_O(n^4).cpp [44])
 (F:\OTHER\Git\Algorithm\MinimumVertexCover\minimum_vertex_cover.cpp)
-(F:\OTHER\Git\Algorithm\Nth_Permutation_Of_a_String\NthPermutation.cpp [44])
-[45]
+(F:\OTHER\Git\Algorithm\Nth_Permutation_Of_a_String\NthPermutation.cpp [45]
+[46]) [47]
 Chapter 5.
-(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [46
+(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [48
 
 ])
-(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [47]
-[48]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
-[49] [50]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [51])
-[52]
+(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [49]
+[50]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
+[51] [52]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [53])
+[54]
 Chapter 6.
 (F:\OTHER\Git\Algorithm\Math\A,B_reduce_to_x,y_ratio.cpp)
 (F:\OTHER\Git\Algorithm\Floyds_Cycle_Finding_algorithm\FloydsCycleFindingAlgori
-thm.cpp [53
+thm.cpp [55
 
 ]) (F:\OTHER\Git\Algorithm\Math\Angle_between_clock_hand.cpp)
-(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [54] [55] [56]) [57]
+(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [56] [57] [58]) [59]
 Chapter 7.
-(F:\OTHER\Git\Algorithm\MinMax_Algorithm\MINMAXALGORITHM.cpp) [58
+(F:\OTHER\Git\Algorithm\MinMax_Algorithm\MINMAXALGORITHM.cpp) [60
 
 ]
 Chapter 8.
 (F:\OTHER\Git\Algorithm\Number_Theory\gcd.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\lcm.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\BigModLoop.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [59
+(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [61
 
 ]
 (F:\OTHER\Git\Algorithm\Number_Theory\Sieve.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp) [60]
+(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp [62])
 (F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi(sieve_version).cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi.cpp)
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
+ [63]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
- [61]
+
 (F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor(sieve_version).cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor.cpp)
+(F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor.cpp) [64]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
- [62]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
@@ -487,28 +488,28 @@ Missing character: There is no … in font cmr10!
 (F:\OTHER\Git\Algorithm\Number_Theory\ModularInverse(EGCD).cpp)
 Missing character: There is no φ in font cmr10!
 Missing character: There is no × in font cmr8!
-
-(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp [63]) [64]
+ [65]
+(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp) [66]
 Chapter 9.
-(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [65
+(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [67
 
-] [66] [67] [68]
-[69])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
- [70]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
+] [68] [69] [70]
+[71])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+ [72]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 272.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 272.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
  ) 
 Here is how much of TeX's memory you used:
- 10981 strings out of 429025
- 155202 string characters out of 3167801
+ 11003 strings out of 429025
+ 155480 string characters out of 3167801
  508518 words of memory out of 3000000
- 14001 multiletter control sequences out of 15000+200000
+ 14019 multiletter control sequences out of 15000+200000
  11295 words of font info for 39 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
  34i,6n,61p,462b,1835s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on algo.pdf (71 pages).
+Output written on algo.pdf (73 pages).
