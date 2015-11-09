@@ -1,6 +1,7 @@
 \documentclass[11pt]{report}
 \usepackage{listings}
 \usepackage{color}
+\usepackage{fullpage}
 %New colors defined below
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -148,7 +149,10 @@
 %%Begin Dynamic programming
 \chapter{Dynamic programming}
 \section{Longest Increasing sub sequence}
-\lstinputlisting[language=C++]{../Algorithm/LIS/LIS.cpp}
+\subsection{LIS1}
+\lstinputlisting[language=C++]{../Algorithm/LIS/LIS1.cpp}
+\subsection{LIS(Stanford)}
+\lstinputlisting[language=C++]{../Algorithm/LIS/LIS(stanford).cpp}
 \section{Edit Distance}
 \lstinputlisting[language=C++]{../Algorithm/Edit_Distance/Edit_Destance.cpp}
 \section{Distinct Sub Sequence}
@@ -267,8 +271,23 @@ $$a^{-1} \equiv a^{m-2} \pmod{m}$$.
 
 %%Begin Computational Geometry
 \chapter{Computational geometry}
-\section{Geo Library}
+\section{Geo Library (Stanford)}
 \lstinputlisting[language=C++]{../Algorithm/GeometryLibrary/GeoLibrary.cpp}
+\section{Convex Hull}
+\subsection{Convex Hull 1}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/ConvexHull.cpp}
+\subsection{Convex Hull (Stanford)}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/ConvexHull(Stanford).cpp}
+\section{Determine a point inside polygon or not}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/Determine_a_point_inside_polygon_or_not.cpp}
+\section{Integer point in a Segment or lattice point}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/IntegerPointInsegment.cpp}
+\section{Segment Intersection}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/Segment_intersection.cpp}
+\section{Verify Convex polygon}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/Verify_convex_polygon.cpp}
+\section{Closest Pair Algorithm}
+\lstinputlisting[language=C++]{../Algorithm/Computational_Geometry/ClosestPair.cpp}
 %%End Computational Geometry
 
 \end{document}
