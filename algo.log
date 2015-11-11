@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  10 NOV 2015 01:02
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  12 NOV 2015 00:55
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -72,9 +72,50 @@ Package color Info: Driver file: xetex.def on input line 130.
 File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Liv
 e/RRM/JK)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip43
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count97
+\Gm@cntv=\count98
+\c@Gm@tempcnt=\count99
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -90,11 +131,9 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -125,23 +164,20 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen107
-\Hy@linkcounter=\count97
-\Hy@pagecounter=\count98
+\@linkdim=\dimen117
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count99
+\Hy@SavedSpaceFactor=\count102
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -153,17 +189,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count100
+\c@Hy@tempcnt=\count103
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen108
-\Fld@menulength=\count101
-\Field@Width=\dimen109
-\Fld@charsize=\dimen110
+\XeTeXLinkMargin=\dimen118
+\Fld@menulength=\count104
+\Field@Width=\dimen119
+\Fld@charsize=\dimen120
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -173,9 +209,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count102
-\c@Item=\count103
-\c@Hfootnote=\count104
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
 )
 
 Package hyperref Message: Driver (autodetected): hxetex.
@@ -191,10 +227,10 @@ Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box28
-\c@Hy@AnnotLevel=\count105
-\HyField@AnnotCount=\count106
-\Fld@listcount=\count107
-\c@bookmark@seq@number=\count108
+\c@Hy@AnnotLevel=\count108
+\HyField@AnnotCount=\count109
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -205,26 +241,10 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip44
+\Hy@SectionHShift=\skip43
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count109
-\Gm@cntv=\count110
-\c@Gm@tempcnt=\count111
-\Gm@bindingoffset=\dimen111
-\Gm@wd@mp=\dimen112
-\Gm@odd@mp=\dimen113
-\Gm@even@mp=\dimen114
-\Gm@layoutwidth=\dimen115
-\Gm@layoutheight=\dimen116
-\Gm@layouthoffset=\dimen117
-\Gm@layoutvoffset=\dimen118
-\Gm@dimlist=\toks16
-
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
 
 Package geometry Warning: Over-specification in `h'-direction.
     `width' (597.50787pt) is ignored.
@@ -234,40 +254,23 @@ Package geometry Warning: Over-specification in `v'-direction.
     `height' (845.04684pt) is ignored.
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 \c@lstlisting=\count112
-\AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 58.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count113
-)
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
-
-(F:\OTHER\Git\CodeBook\algo.out) (F:\OTHER\Git\CodeBook\algo.out)
-\@outlinefile=\write3
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -284,9 +287,9 @@ LaTeX Info: Redefining \nameref on input line 58.
 * \textheight=674.33032pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=13.08827pt
-* \headheight=0.0pt
-* \headsep=0.0pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
 * \marginparwidth=59.0pt
@@ -302,12 +305,29 @@ LaTeX Info: Redefining \nameref on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring ON on input line 59.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count113
+)
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
+
+(F:\OTHER\Git\CodeBook\algo.out) (F:\OTHER\Git\CodeBook\algo.out)
+\@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 60.
+(Font)              <6> on input line 61.
+
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -365,19 +385,19 @@ Missing character: There is no ^^96 in font cmr9!
  [9])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Lazy2.cpp [10] [11])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant1(CumulativeFreque
-ncy).cpp [12])
+ncy).cpp [12]) [13]
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant2(Maximum_sum_in_r
-ange).cpp [13] [14])
+ange).cpp [14])
 (F:\OTHER\Git\Algorithm\RMQ-Segment_Tree\Segment_Tree_Variant3(Correct_maximum_
-bracket_seq).cpp [15])
-(F:\OTHER\Git\Algorithm\RMQ-Sliding_Window\Sliding_Window_Rmq.cpp [16])
-(F:\OTHER\Git\Algorithm\RMQ-Sparse_Table\Sparse_Table.cpp [17])
+bracket_seq).cpp [15]) [16]
+(F:\OTHER\Git\Algorithm\RMQ-Sliding_Window\Sliding_Window_Rmq.cpp) [17]
+(F:\OTHER\Git\Algorithm\RMQ-Sparse_Table\Sparse_Table.cpp)
 (F:\OTHER\Git\Algorithm\Ternary_Bit_Mask\Tarnary_Bit_Mask.cpp) [18]
 (F:\OTHER\Git\Algorithm\LargestRactangleInHistogram\LargestRactangleInHistogram
 _usingStack.cpp)
 (F:\OTHER\Git\Algorithm\LargestRactangleInHistogram\LargestRactangleInHistogram
-_usingSegmentTree.cpp [19]) (F:\OTHER\Git\Algorithm\LCA\lca.cpp [20])
-(F:\OTHER\Git\Algorithm\UnionFind\UnionFind.cpp [21]) [22]
+_usingSegmentTree.cpp [19]) (F:\OTHER\Git\Algorithm\LCA\lca.cpp [20]) [21]
+(F:\OTHER\Git\Algorithm\UnionFind\UnionFind.cpp) [22]
 Chapter 2.
 (F:\OTHER\Git\Algorithm\DFS\Bicoloring.cpp)
 (F:\OTHER\Git\Algorithm\DFS\Cycle_Finding.cpp)
@@ -385,103 +405,139 @@ Chapter 2.
 
 ])
 (F:\OTHER\Git\Algorithm\SCC\StronglyConnectedComponent.cpp [24])
-(F:\OTHER\Git\Algorithm\Havel_Hakimi\HavelHakimi.cpp [25])
-(F:\OTHER\Git\Algorithm\Articulation_point\FindArticulationPoint.cpp [26])
-(F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge1.cpp)
-(F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge2.cpp
-[27]) (F:\OTHER\Git\Algorithm\StableMarriageAlgo\Stable_Marriage_Algo.cpp)
-(F:\OTHER\Git\Algorithm\2SAT\2SAT.cpp
-Missing character: There is no ^^92 in font cmr9!
- [28]
-Missing character: There is no ^^92 in font cmr9!
-Missing character: There is no ^^92 in font cmr9!
-Missing character: There is no ^^92 in font cmr9!
-Missing character: There is no ^^92 in font cmr9!
- [29] [30])
-(F:\OTHER\Git\Algorithm\HLD\Heavy_LIght_Decomposition.cpp [31] [32] [33]
-[34]) [35]
-Chapter 3.
-(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [36
+File: ../Algorithm/Havel_Hakimi/havelhakimi.png Graphic file (type QTm)
 
-])
-(F:\OTHER\Git\Algorithm\MaximumBipartiteMatching\BPM.cpp [37]) [38]
-Chapter 4.
-(F:\OTHER\Git\Algorithm\LIS\LIS1.cpp [39
-
-])
-(F:\OTHER\Git\Algorithm\LIS\LIS(stanford).cpp [40])
-(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [41] [42])
-(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp)
-(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp [43])
-(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum.cpp)
-(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum_O(n^3).cpp [44])
-Underfull \hbox (badness 10000) in paragraph at lines 172--176
+<use  "../Algorithm/Havel_Hakimi/havelhakimi.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
 
-Overfull \hbox (25.41412pt too wide) in paragraph at lines 172--176
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+
+ []
+
+(F:\OTHER\Git\Algorithm\Havel_Hakimi\HavelHakimi.cpp [25])
+Missing character: There is no – in font cmr10!
+File: ../Algorithm/Articulation_point/ArticulationPoints.png Graphic file (type
+ QTm)
+
+<use  "../Algorithm/Articulation_point/ArticulationPoints.png" >
+File: ../Algorithm/Articulation_point/ArticulationPoints1.png Graphic file (typ
+e QTm)
+
+<use  "../Algorithm/Articulation_point/ArticulationPoints1.png" >
+File: ../Algorithm/Articulation_point/ArticulationPoints21.png Graphic file (ty
+pe QTm)
+
+<use  "../Algorithm/Articulation_point/ArticulationPoints21.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26]
+File: ../Algorithm/Articulation_point/ArticulationPoints4.png Graphic file (typ
+e QTm)
+ <use  "../Algorithm/Articulation_point/ArticulationPoints4.png" > [27]
+(F:\OTHER\Git\Algorithm\Articulation_point\FindArticulationPoint.cpp)
+(F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge1.cpp
+[28])
+(F:\OTHER\Git\Algorithm\Articulation_point\ArticulationPointFindBridge2.cpp)
+[29] (F:\OTHER\Git\Algorithm\StableMarriageAlgo\Stable_Marriage_Algo.cpp)
+(F:\OTHER\Git\Algorithm\2SAT\2SAT.cpp
+Missing character: There is no ^^92 in font cmr9!
+Missing character: There is no ^^92 in font cmr9!
+Missing character: There is no ^^92 in font cmr9!
+Missing character: There is no ^^92 in font cmr9!
+Missing character: There is no ^^92 in font cmr9!
+ [30] [31] [32])
+(F:\OTHER\Git\Algorithm\HLD\Heavy_LIght_Decomposition.cpp [33] [34] [35]
+[36]) [37]
+Chapter 3.
+(F:\OTHER\Git\Algorithm\Max_Flow\Max_Flow.cpp [38
+
+]) [39]
+(F:\OTHER\Git\Algorithm\MaximumBipartiteMatching\BPM.cpp) [40]
+Chapter 4.
+(F:\OTHER\Git\Algorithm\LIS\LIS1.cpp [41
+
+])
+(F:\OTHER\Git\Algorithm\LIS\LIS(stanford).cpp [42])
+(F:\OTHER\Git\Algorithm\Edit_Distance\Edit_Destance.cpp [43] [44])
+(F:\OTHER\Git\Algorithm\Distinct_Subsequnce\DistinctSubsequence.cpp)
+(F:\OTHER\Git\Algorithm\knuth_optimization\knuthOptimization.cpp [45])
+(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum.cpp)
+(F:\OTHER\Git\Algorithm\MaXSum\2DMaxSum_O(n^3).cpp [46])
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
+
+ []
+
+
+Overfull \hbox (25.41412pt too wide) in paragraph at lines 215--219
 \OT1/cmr/m/n/10.95 Query For-mula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x
 1,y1,z2)+S(x1,y2,z1)+S(x1,y1,z1)-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--176
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--176
+Underfull \hbox (badness 10000) in paragraph at lines 215--219
 
  []
 
-(F:\OTHER\Git\Algorithm\MaXSum\3DMaxSum_O(n^4).cpp [45])
-(F:\OTHER\Git\Algorithm\MinimumVertexCover\minimum_vertex_cover.cpp)
-(F:\OTHER\Git\Algorithm\Nth_Permutation_Of_a_String\NthPermutation.cpp [46]
-[47]) [48]
+(F:\OTHER\Git\Algorithm\MaXSum\3DMaxSum_O(n^4).cpp [47])
+(F:\OTHER\Git\Algorithm\MinimumVertexCover\minimum_vertex_cover.cpp) [48]
+(F:\OTHER\Git\Algorithm\Nth_Permutation_Of_a_String\NthPermutation.cpp [49])
+[50]
 Chapter 5.
-(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [49
+(F:\OTHER\Git\Algorithm\KMP\kmp.cpp [51
 
 ])
-(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [50]
-[51]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
-[52] [53]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [54])
-[55]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 240.
+
+(F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(DynamicTrie).cpp [52]
+[53]) (F:\OTHER\Git\Algorithm\Aho_Corasick\Aho-corasick(staticTrie).cpp
+[54] [55]) (F:\OTHER\Git\Algorithm\Manachers_Algorithm\Manachers.cpp [56])
+[57]
 Chapter 6.
 (F:\OTHER\Git\Algorithm\Math\A,B_reduce_to_x,y_ratio.cpp)
 (F:\OTHER\Git\Algorithm\Floyds_Cycle_Finding_algorithm\FloydsCycleFindingAlgori
-thm.cpp [56
+thm.cpp [58
 
 ]) (F:\OTHER\Git\Algorithm\Math\Angle_between_clock_hand.cpp)
-(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [57] [58] [59]) [60]
+(F:\OTHER\Git\Algorithm\BigInteger\BigInt.cpp [59] [60] [61]) [62]
 Chapter 7.
-(F:\OTHER\Git\Algorithm\MinMax_Algorithm\MINMAXALGORITHM.cpp) [61
+(F:\OTHER\Git\Algorithm\MinMax_Algorithm\MINMAXALGORITHM.cpp) [63
 
 ]
+(F:\OTHER\Git\Algorithm\Grundy_Number\Grundy.cpp) [64]
 Chapter 8.
 (F:\OTHER\Git\Algorithm\Number_Theory\gcd.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\lcm.cpp)
 (F:\OTHER\Git\Algorithm\Number_Theory\BigModLoop.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [62
+(F:\OTHER\Git\Algorithm\Number_Theory\BigModRucursive.cpp) [65
 
 ]
 (F:\OTHER\Git\Algorithm\Number_Theory\Sieve.cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp [63])
+(F:\OTHER\Git\Algorithm\Number_Theory\BitwiseSieve.cpp) [66]
 (F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi(sieve_version).cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi.cpp)
+(F:\OTHER\Git\Algorithm\Number_Theory\EulerPhi.cpp) [67]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
- [64]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 
 (F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor(sieve_version).cpp)
-(F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor.cpp) [65]
+(F:\OTHER\Git\Algorithm\Number_Theory\NumberOfDivisor.cpp)
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
+ [68]
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
 Missing character: There is no … in font cmr10!
@@ -493,37 +549,37 @@ Missing character: There is no … in font cmr10!
 (F:\OTHER\Git\Algorithm\Number_Theory\ModularInverse(EGCD).cpp)
 Missing character: There is no φ in font cmr10!
 Missing character: There is no × in font cmr8!
- [66]
-(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp) [67]
-Chapter 9.
-(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [68
 
-] [69] [70] [71]
-[72]) (F:\OTHER\Git\Algorithm\Computational_Geometry\ConvexHull.cpp [73])
+(F:\OTHER\Git\Algorithm\Number_Theory\NCR(LucasTheorem).cpp [69]) [70]
+Chapter 9.
+(F:\OTHER\Git\Algorithm\GeometryLibrary\GeoLibrary.cpp [71
+
+] [72] [73] [74]
+[75]) (F:\OTHER\Git\Algorithm\Computational_Geometry\ConvexHull.cpp [76])
 (F:\OTHER\Git\Algorithm\Computational_Geometry\ConvexHull(Stanford).cpp
-[74] [75])
+[77] [78])
 (F:\OTHER\Git\Algorithm\Computational_Geometry\Determine_a_point_inside_polygon
-_or_not.cpp [76])
+_or_not.cpp [79])
 (F:\OTHER\Git\Algorithm\Computational_Geometry\IntegerPointInsegment.cpp)
 (F:\OTHER\Git\Algorithm\Computational_Geometry\Segment_intersection.cpp
-[77]) (F:\OTHER\Git\Algorithm\Computational_Geometry\Verify_convex_polygon.cpp)
-(F:\OTHER\Git\Algorithm\Computational_Geometry\ClosestPair.cpp [78])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
- [79]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
+[80]) (F:\OTHER\Git\Algorithm\Computational_Geometry\Verify_convex_polygon.cpp)
+(F:\OTHER\Git\Algorithm\Computational_Geometry\ClosestPair.cpp [81])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+ [82]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 293.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 293.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 293.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 352.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 352.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 352.
  ) 
 Here is how much of TeX's memory you used:
- 11243 strings out of 429025
- 159033 string characters out of 3167801
- 508559 words of memory out of 3000000
- 14231 multiletter control sequences out of 15000+200000
+ 11438 strings out of 429025
+ 161677 string characters out of 3167801
+ 511814 words of memory out of 3000000
+ 14400 multiletter control sequences out of 15000+200000
  11295 words of font info for 39 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
- 34i,6n,61p,462b,1835s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,13n,61p,462b,1835s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on algo.pdf (80 pages).
+Output written on algo.pdf (83 pages).

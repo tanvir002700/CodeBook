@@ -1,7 +1,8 @@
 \documentclass[11pt]{report}
 \usepackage{listings}
 \usepackage{color}
-\usepackage{fullpage}
+\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+\usepackage{graphicx}
 %New colors defined below
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -82,12 +83,14 @@
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Lazy2.cpp}
 \subsubsection{Segment Tree Variant 1}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant1(CumulativeFrequency).cpp}
+\newpage
 \subsubsection{Segment Tree Variant 2}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant2(Maximum_sum_in_range).cpp}
 \subsubsection{Segment Tree Variant 3}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Segment_Tree/Segment_Tree_Variant3(Correct_maximum_bracket_seq).cpp}
 \subsection{Sliding Window RMQ}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Sliding_Window/Sliding_Window_Rmq.cpp}
+\newpage
 \subsection{Sparse Table}
 \lstinputlisting[language=C++]{../Algorithm/RMQ-Sparse_Table/Sparse_Table.cpp}
 
@@ -103,6 +106,7 @@
 
 \section{Least common ancestor (LCA)}
 \lstinputlisting[language=C++]{../Algorithm/LCA/lca.cpp}
+\newpage
 \section{Union Find}
 \lstinputlisting[language=C++]{../Algorithm/UnionFind/UnionFind.cpp}
 %%End Data Structure
@@ -121,14 +125,52 @@
 \section{Strongly Connected Component}
 \lstinputlisting[language=C++]{../Algorithm/SCC/StronglyConnectedComponent.cpp}
 \section{Havel Hakimi}
+Given N degree d1,d2,d3.....dn. Is it possible to make a graph which have no cycle and
+different two node will be connected with one Edge?\\
+\includegraphics[scale=1.5,width=10cm,height=8cm]{../Algorithm/Havel_Hakimi/havelhakimi.png}\\ \\
 \lstinputlisting[language=C++]{../Algorithm/Havel_Hakimi/HavelHakimi.cpp}
 \section{Articulation Point/Bridge}
+\textbf{Articulation point:}
+A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. Articulation points represent vulnerabilities in a connected network – single points whose failure would split the network into 2 or more disconnected components. They are useful for designing reliable networks.
+For a disconnected undirected graph, an articulation point is a vertex removing which increases number of connected components.
+Following are some example graphs with articulation points encircled with red color.
+\begin{figure}[h]
+\begin{center}$
+\begin{array}{cc}
+\includegraphics[width=4cm, height=5cm]{../Algorithm/Articulation_point/ArticulationPoints.png}
+\includegraphics[width=4cm, height=5cm]{../Algorithm/Articulation_point/ArticulationPoints1.png}
+\includegraphics[width=4cm, height=5cm]{../Algorithm/Articulation_point/ArticulationPoints21.png}
+\end{array}$
+\end{center}
+\caption{Articulation Point}
+\end{figure}\\
+\textbf{A O(V+E) algorithm to find all Articulation Points: } \\
+The idea is to use DFS (Depth First Search). In DFS, we follow vertices in tree form called DFS tree. In DFS tree, a vertex u is parent of another vertex v, if v is discovered by u (obviously v is an adjacent of u in graph). In DFS tree, a vertex u is articulation point if one of the following two conditions is true.
+\begin{enumerate}
+\item u is root of DFS tree and it has at least two children.
+\item  u is not root of DFS tree and it has a child v such that no vertex in subtree rooted with v has a back edge to one of the ancestors (in DFS tree) of u.
+\end{enumerate}
+ u is not root of DFS tree and it has a child v such that no vertex in subtree rooted with v has a back edge to one of the ancestors (in DFS tree) of u.
+ \begin{figure}[h]
+\begin{center}$
+\begin{array}{cc}
+\includegraphics[width=8cm, height=6cm]{../Algorithm/Articulation_point/ArticulationPoints4.png}
+\end{array}$
+\end{center}
+\caption{Articulation Point}
+\end{figure}\\
+We do DFS traversal of given graph with additional code to find out Articulation Points (APs). In DFS traversal, we maintain a parent[] array where parent[u] stores parent of vertex u. Among the above mentioned two cases, the first case is simple to detect. For every vertex, count children. If currently visited vertex u is root (parent[u] is NIL) and has more than two children, print it.
+How to handle second case? The second case is trickier. We maintain an array disc[] to store discovery time of vertices. For every node u, we need to find out the earliest visited vertex (the vertex with minimum discovery time) that can be reached from subtree rooted with u. So we maintain an additional array low[] which is defined as follows.\\
+low[u] = min(disc[u], disc[w]) \\
+where w is an ancestor of u and there is a back edge from 
+some descendant of u to w.
 \subsection{Find Articulation Point:}
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/FindArticulationPoint.cpp}
 \subsection{Find Bridge version 1:}
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge1.cpp}
 \subsection{Find Bridge version 2:}
 \lstinputlisting[language=C++]{../Algorithm/Articulation_point/ArticulationPointFindBridge2.cpp}
+\newpage
 \section{Stable Marriage Problem}
 \lstinputlisting[language=C++]{../Algorithm/StableMarriageAlgo/Stable_Marriage_Algo.cpp}
 \section{2 SAT}
@@ -139,9 +181,10 @@
 %%End Graph Theory
 
 %%Begin Flow networks/ matching
-\chapter{Flow networks/ matching}
+\chapter{Flow networks, matching}
 \section{Max Flow}
 \lstinputlisting[language=C++]{../Algorithm/Max_Flow/Max_Flow.cpp}
+\newpage
 \section{Maximum Bipartite Matching}
 \lstinputlisting[language=C++]{../Algorithm/MaximumBipartiteMatching/BPM.cpp}
 %%End Flow network/matching
@@ -178,6 +221,7 @@ Query Formula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x1,y1,z2)+S(x1,y2,z1)+
 
 \section{Minimum Vertex Cover}
 \lstinputlisting[language=C++]{../Algorithm/MinimumVertexCover/minimum_vertex_cover.cpp}
+\newpage
 \section{Nth Permutation Of a String}
 \lstinputlisting[language=C++]{../Algorithm/Nth_Permutation_Of_a_String/NthPermutation.cpp}
 %%End Dynamic programming
@@ -188,6 +232,17 @@ Query Formula: S([x1,y1,z1] to [x2,y2,z2] )=S(x2,y2,z2)+S(x1,y1,z2)+S(x1,y2,z1)+
 \href{https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/}{Tutorial}
 \lstinputlisting[language=C++]{../Algorithm/KMP/kmp.cpp}
 \section{Aho Corasick}
+\textbf{Algorithm:}
+We can divide the algorithm into 2 steps:
+\begin{enumerate}
+	\item constructing a finite state automaton
+	\begin{itemize}
+		\item constructing a Trie with input words
+		\item finding the right fall function for each node of trie
+	\end{itemize}
+\item moving throuhg automaton - reading each character from input, storing the results.  If an algorithm finds right words in some step, (more words can end in the same place), the nodes light up and the numbers by their indices are incremented.
+\end{enumerate}
+
 \subsection{Aho Corasick with Dynamic Trie}
 \lstinputlisting[language=C++]{../Algorithm/Aho_Corasick/Aho-corasick(DynamicTrie).cpp}
 \subsection{Aho Corasick with Static Trie}
@@ -215,6 +270,9 @@ $\left(\frac{A}{B}\right)$ ratio reduce to $\left(\frac{x}{y}\right)$
 \chapter{Game Theory}
 \section{Min Max Algorithm}
 \lstinputlisting[language=C++]{../Algorithm/MinMax_Algorithm/MINMAXALGORITHM.cpp}
+\newpage
+\section{Grundy Number}
+\lstinputlisting[language=C++]{../Algorithm/Grundy_Number/Grundy.cpp}
 %%End Game Theory
 
 %%Begin Number Theory
@@ -239,6 +297,7 @@ Euler's totient function (or Euler's phi function), denoted as $\varphi (n) or  
 \lstinputlisting[language=C++]{../Algorithm/Number_Theory/EulerPhi(sieve_version).cpp}
 \subsection{Euler phi function}
 \lstinputlisting[language=C++]{../Algorithm/Number_Theory/EulerPhi.cpp}
+\newpage
 \section{Number of Divisors}
 If a number $$N= P1^{k1}*P2^{k2}*P3^{k3}………...........Pn^{kn}$$
 Number of divisor: $$f(n)=(k1+1)*(k2+1)*(k3+1)*…….........….(kn+1)$$
