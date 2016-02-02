@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  12 NOV 2015 00:55
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  4 DEC 2015 11:42
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -564,19 +564,19 @@ _or_not.cpp [79])
 (F:\OTHER\Git\Algorithm\Computational_Geometry\Segment_intersection.cpp
 [80]) (F:\OTHER\Git\Algorithm\Computational_Geometry\Verify_convex_polygon.cpp)
 (F:\OTHER\Git\Algorithm\Computational_Geometry\ClosestPair.cpp [81])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 354.
  [82]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 354.
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 352.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 352.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 352.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 354.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 354.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 354.
  ) 
 Here is how much of TeX's memory you used:
  11438 strings out of 429025
  161677 string characters out of 3167801
- 511814 words of memory out of 3000000
+ 514814 words of memory out of 3000000
  14400 multiletter control sequences out of 15000+200000
  11295 words of font info for 39 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
