@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  5 FEB 2016 12:24
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2015.8.1)  5 FEB 2016 12:30
 entering extended mode
 **algo.tex
 (F:\OTHER\Git\CodeBook\algo.tex
@@ -597,23 +597,24 @@ _or_not.cpp [86])
 (F:\OTHER\Git\Algorithm\Computational_Geometry\IntegerPointInsegment.cpp)
 (F:\OTHER\Git\Algorithm\Computational_Geometry\Segment_intersection.cpp
 [87]) (F:\OTHER\Git\Algorithm\Computational_Geometry\Verify_convex_polygon.cpp)
-(F:\OTHER\Git\Algorithm\Computational_Geometry\ClosestPair.cpp [88])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
- [89]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
+(F:\OTHER\Git\Algorithm\Computational_Geometry\ClosestPair.cpp [88]) [89]
+(F:\OTHER\Git\Algorithm\Template.cpp [90] [91])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+ [92]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
 
 (F:\OTHER\Git\CodeBook\algo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 364.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 364.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 366.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 366.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
  ) 
 Here is how much of TeX's memory you used:
- 11679 strings out of 429025
- 164657 string characters out of 3167801
+ 11814 strings out of 429025
+ 166164 string characters out of 3167801
  514817 words of memory out of 3000000
- 14628 multiletter control sequences out of 15000+200000
+ 14759 multiletter control sequences out of 15000+200000
  11295 words of font info for 39 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
  34i,13n,61p,462b,1835s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on algo.pdf (90 pages).
+Output written on algo.pdf (93 pages).

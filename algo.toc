@@ -103,3 +103,4 @@
 \contentsline {section}{\numberline {9.5}Segment Intersection}{87}{section.9.5}
 \contentsline {section}{\numberline {9.6}Verify Convex polygon}{88}{section.9.6}
 \contentsline {section}{\numberline {9.7}Closest Pair Algorithm}{88}{section.9.7}
+\contentsline {section}{\numberline {9.8}Template: }{90}{section.9.8}
